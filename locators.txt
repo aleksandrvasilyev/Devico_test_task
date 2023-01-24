@@ -1,0 +1,2 @@
+css_locator = 'div[class="home-top-section__left"] div[class="button"]'
+xpath_locator = '//div[@class="home-top-section__left"]//div[@class="button"]'
